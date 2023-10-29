@@ -3,7 +3,7 @@ import Carousel from "./Carousel";
 
 const useStyle = makeStyles(() => ({
   banner: {
-    backgroundImage: "url(/assets/banner2.jpg)",
+    backgroundImage: "url(/assets/banner4.png)",
   },
   bannerContent: {
     height: 400,
